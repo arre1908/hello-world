@@ -1,5 +1,3 @@
 # hello-world
 
-This is a test. 
-
-Heheah boah..
+This is a test.
